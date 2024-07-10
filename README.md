@@ -72,3 +72,6 @@ Uma vez que a aplicação está em execução, você pode acessá-la através do
 
 
 ### Contribuições são bem vindas
+
+> [!IMPORTANT]
+> Contribuições são bem vindas.
