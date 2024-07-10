@@ -71,7 +71,5 @@ Uma vez que a aplicação está em execução, você pode acessá-la através do
 - **Deletar Cliente: http://localhost:8080/clientes/{id}/deletar (substitua {id} pelo ID do cliente que deseja deletar)**
 
 
-### Contribuições são bem vindas
-
 > [!IMPORTANT]
 > Contribuições são bem vindas.
