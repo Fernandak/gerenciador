@@ -23,14 +23,14 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto=update
 ```
 
-##Inicialização do Projeto
+## Inicialização do Projeto
 
 Pré-requisitos
 - **Java 17**
 - **Maven**
 - **PostgreSQL**
 
-##Passos para inicializar o projeto
+## Passos para inicializar o projeto
 
 1. Clone este repositório para a sua máquina local:
 
@@ -61,7 +61,7 @@ Ou use o comando abaixo para iniciar a aplicação diretamente com o Maven:
 mvn spring-boot:run
 ```
 
-##Acessando a Aplicação
+## Acessando a Aplicação
 
 Uma vez que a aplicação está em execução, você pode acessá-la através do navegador. Por padrão, a aplicação estará disponível na porta 8080.
 
@@ -71,4 +71,4 @@ Uma vez que a aplicação está em execução, você pode acessá-la através do
 - **Deletar Cliente: http://localhost:8080/clientes/{id}/deletar (substitua {id} pelo ID do cliente que deseja deletar)**
 
 
-###Contribuições são bem vindas
+### Contribuições são bem vindas
